@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Sorry Not Sorry",
+  "base_artist": "ITZY",
+  "createdAt": "2026-03-23T18:38:38.376909Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "SORRY NOT SORRY (feat. Nas, JAY-Z & James Fauntleroy) - Harmonies by The Hive",
+      "artist": "DJ Khaled feat. Nas, JAY-Z & James Fauntleroy",
+      "has_synced": true,
+      "path": "select/01_SORRY_NOT_SORRY_(feat._Nas,_JAY-Z_&_James_Fauntleroy)_-_Harmonies_by_The_Hive_DJ_Khaled_feat._Nas,_JAY-Z_&_James_Fauntleroy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "SORRY NOT SORRY (feat. Nas, Jay-Z & James Fauntleroy) [Harmonies by The Hive]",
+      "artist": "DJ Khaled",
+      "has_synced": true,
+      "path": "select/02_SORRY_NOT_SORRY_(feat._Nas,_Jay-Z_&_James_Fauntleroy)_[Harmonies_by_The_Hive]_DJ_Khaled.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sorry Not Sorry",
+      "artist": "New Years Day",
+      "has_synced": true,
+      "path": "select/03_Sorry_Not_Sorry_New_Years_Day.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sorry Not Sorry",
+      "artist": "Demi Lovato",
+      "has_synced": true,
+      "path": "select/04_Sorry_Not_Sorry_Demi_Lovato.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "SORRY NOT SORRY (feat. Nas, JAY-Z & James Fauntleroy) (Harmonies by The Hive)",
+      "artist": "DJ Khaled, Nas, JAY-Z, James Fauntleroy",
+      "has_synced": true,
+      "path": "select/05_SORRY_NOT_SORRY_(feat._Nas,_JAY-Z_&_James_Fauntleroy)_(Harmonies_by_The_Hive)_DJ_Khaled,_Nas,_JAY-Z,_James_Fauntleroy.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sorry, Not Sorry",
+      "artist": "Mayday Parade",
+      "has_synced": false,
+      "path": "select/06_Sorry,_Not_Sorry_Mayday_Parade.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sorry Not Sorry",
+      "artist": "Demi Lovato",
+      "has_synced": true,
+      "path": "select/07_Sorry_Not_Sorry_Demi_Lovato.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sorry Not Sorry (Freedo Remix)",
+      "artist": "Demi Lovato",
+      "has_synced": true,
+      "path": "select/08_Sorry_Not_Sorry_(Freedo_Remix)_Demi_Lovato.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sorry Not Sorry",
+      "artist": "Bryson Tiller",
+      "has_synced": false,
+      "path": "select/09_Sorry_Not_Sorry_Bryson_Tiller.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sorry Not Sorry (Clean)",
+      "artist": "Bryson Tiller",
+      "has_synced": false,
+      "path": "select/10_Sorry_Not_Sorry_(Clean)_Bryson_Tiller.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sorry Not Sorry (Explicit)",
+      "artist": "Bryson Tiller",
+      "has_synced": false,
+      "path": "select/11_Sorry_Not_Sorry_(Explicit)_Bryson_Tiller.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "SORRY NOT SORRY",
+      "artist": "Tyler, The Creator",
+      "has_synced": true,
+      "path": "select/12_SORRY_NOT_SORRY_Tyler,_The_Creator.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sorry Not Sorry - Acoustic",
+      "artist": "Demi Lovato",
+      "has_synced": true,
+      "path": "select/13_Sorry_Not_Sorry_-_Acoustic_Demi_Lovato.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sorry Not Sorry (Acoustic)",
+      "artist": "Demi Lovato",
+      "has_synced": true,
+      "path": "select/14_Sorry_Not_Sorry_(Acoustic)_Demi_Lovato.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sorry Not Sorry",
+      "artist": "Demi Lovato",
+      "has_synced": true,
+      "path": "select/15_Sorry_Not_Sorry_Demi_Lovato.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sorry Not Sorry",
+      "artist": "Gemini Syndrome",
+      "has_synced": true,
+      "path": "select/16_Sorry_Not_Sorry_Gemini_Syndrome.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Sorry Not Sorry",
+      "artist": "ITZY",
+      "has_synced": true,
+      "path": "select/17_Sorry_Not_Sorry_ITZY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sorry Not Sorry",
+      "artist": "ITZY",
+      "has_synced": false,
+      "path": "select/pl_01_Sorry_Not_Sorry_ITZY.txt"
+    }
+  ]
+}
